@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\BanziKubheka\\Desktop\\OpenFileTest\\OpenFileTest\\OpenFileTest\\OpenFileTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\BanziKubheka\\Desktop\\OpenFileTest\\OpenFileTest\\OpenFileTest\\OpenFileTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\BanziKubheka\\Desktop\\OpenFileTest\\OpenFileTest\\OpenFileTest\\OpenFileTest.csproj",
+        "projectName": "OpenFileTest",
+        "projectPath": "C:\\Users\\BanziKubheka\\Desktop\\OpenFileTest\\OpenFileTest\\OpenFileTest\\OpenFileTest.csproj",
+        "packagesPath": "C:\\Users\\BanziKubheka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BanziKubheka\\Desktop\\OpenFileTest\\OpenFileTest\\OpenFileTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\BanziKubheka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "C5": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "CommandLineParser": {
+              "target": "Package",
+              "version": "[1.9.71, )"
+            },
+            "DotNetZip": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "ILMerge": {
+              "target": "Package",
+              "version": "[3.0.41, )"
+            },
+            "Ionic.Zip": {
+              "target": "Package",
+              "version": "[1.9.1.8, )"
+            },
+            "McMaster.Extensions.CommandLineUtils": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "OpenMcdf": {
+              "target": "Package",
+              "version": "[2.2.1.9, )"
+            },
+            "Plossum.CommandLine": {
+              "target": "Package",
+              "version": "[0.3.0.14, )"
+            },
+            "SevenZip": {
+              "target": "Package",
+              "version": "[19.0.0, )"
+            },
+            "Spire.Doc": {
+              "target": "Package",
+              "version": "[9.7.3, )"
+            },
+            "Spire.Office": {
+              "target": "Package",
+              "version": "[6.7.0, )"
+            },
+            "Spire.OfficeViewer": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
+            "Spire.Presentation": {
+              "target": "Package",
+              "version": "[6.7.2, )"
+            },
+            "Spire.Spreadsheet": {
+              "target": "Package",
+              "version": "[5.6.1, )"
+            },
+            "Spire.XLS": {
+              "target": "Package",
+              "version": "[11.7.0, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400-preview.21328.4\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
